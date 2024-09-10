@@ -1,2 +1,2 @@
-{ "rewrites": [{ "source": "/", "destination": "/GIAIC-Hackathon/milestone3/hackathon.html
+{ "rewrites": [{ "source": "/", "destination": "/hackathon.html
 " }] }
